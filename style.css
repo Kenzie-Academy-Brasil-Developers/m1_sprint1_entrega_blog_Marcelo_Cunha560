@@ -23,7 +23,7 @@ body {
 }
 
 
-section.ling{
+.ling{
     border: solid black;
     background-color: #23B9CA;
     margin: auto;
@@ -31,7 +31,7 @@ section.ling{
     border-radius: 10px;
 }
 
-section.script{
+.script{
     border: solid black;
     background-color: #23B9CA;
     margin: auto;
@@ -39,7 +39,7 @@ section.script{
     border-radius: 10px;
 }
 
-section.c{
+.c{
     border: solid black;
     background-color: #23B9CA;
     margin: auto;
