@@ -66,3 +66,7 @@ border: solid black;
 background-color: rgb(28, 49, 242);
 color: white;
 }
+
+a:hover{
+    background-color: black;
+}
